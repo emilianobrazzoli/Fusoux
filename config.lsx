@@ -249,12 +249,12 @@
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="MusicFightVolume" type="22" />
                     <attribute id="Type" value="2" type="5" />
-                    <attribute id="Value" value="9" type="6" />
+                    <attribute id="Value" value="3" type="6" />
                 </node>
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="MusicVolume" type="22" />
                     <attribute id="Type" value="2" type="5" />
-                    <attribute id="Value" value="9" type="6" />
+                    <attribute id="Value" value="3" type="6" />
                 </node>
                 <node id="ConfigEntry">
                     <attribute id="MapKey" value="MuteSoundWhenNotFocused" type="22" />
